@@ -28322,3 +28322,5 @@ __attribyte__->__attribute__
 __cpluspus->__cplusplus
 __cpusplus->__cplusplus
 évaluate->evaluate
+ŧarball->tarball
+ŧarballs->tarballs
